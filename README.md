@@ -1,16 +1,15 @@
-### Hi there 👋
+# Pyco
+## Python / C# Developer
+### Founder/Lead Developer of LAC Softworks
+![logo](https://cdn.discordapp.com/attachments/819525963560779799/1026530259002208348/LACSoftworksBanner.jpg)
 
-<!--
-**Aaron47421/Aaron47421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile, I am pyco. I am a 14 year old boy from Scotland who has a passion for developing Software.
+My current main project is 'Legacy's API Controller' which does what it says in the name. If you would like to learn more
+then feel free to contact us.
 
-Here are some ideas to get you started:
+1. [Discord](https://discord.ggW2HPUsZDwm)
+2. e-mail: legacysapicontroller@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We will respond between 1 - 3 business days with e-mail.
+
+Thanks for reading!
