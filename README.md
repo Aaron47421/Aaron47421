@@ -7,7 +7,7 @@ Welcome to my profile, I am pyco. I am a 14 year old boy from Scotland who has a
 My current main project is 'Legacy's API Controller' which does what it says in the name. If you would like to learn more
 then feel free to contact us.
 
-1. [Discord](https://discord.ggW2HPUsZDwm)
+1. [Discord](https://discord.gg/W2HPUsZDwm)
 2. e-mail: legacysapicontroller@gmail.com
 
 We will respond between 1 - 3 business days with e-mail.
