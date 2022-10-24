@@ -7,6 +7,6 @@ Feel free to contact me.
 1. telegram: [TELEGRAM](https://t.me/pyco_official)
 2. e-mail: legacysapicontroller@gmail.com
 
-We will respond between 1 - 3 business days with e-mail.
+I will respond between 1 - 3 business days with e-mail.
 
 Thanks for reading!
